@@ -1,1 +1,19 @@
 Daniel
+commit ee97799d6a55b7a7abd21b2a971bf21a9640aef0 (HEAD -> main)
+Author: dani08722 <mejias.lodan24@triana.salesianos.edu>
+Date:   Fri Nov 28 10:49:46 2025 +0100
+
+    "Precio base configurado correctamente".
+
+commit 4e37e5d5cd4c1752329ccc150fe3269bc9e0251e
+Author: dani08722 <mejias.lodan24@triana.salesianos.edu>
+Date:   Fri Nov 28 10:47:04 2025 +0100
+
+    Clase Libro creada
+
+commit 121f6f65ca1581dae7f0c4cb0fd05a3954eedc8a (origin/main, origin/HEAD)
+Author: dani08722 <mejias.lodan24@triana.salesianos.edu>
+Date:   Fri Nov 28 10:34:28 2025 +0100
+
+    Initial commit
+
